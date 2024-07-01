@@ -43,7 +43,7 @@ Training Loop:
 Prompt Generation:
 - Generate prompts using the fine-tuned model by feeding it specific input phrases.
 - Example prompt: "midjourney prompt for a boy running in the snow".
-Output:
+### Output:
 - The model generates detailed text descriptions based on the input prompts, suitable for use in Midjourney.
   
 ### Conclusion:
