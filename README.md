@@ -47,5 +47,5 @@ Prompt Generation:
 - The model generates detailed text descriptions based on the input prompts, suitable for use in Midjourney.
   
 ### Conclusion:
-This project successfully demonstrates the process of fine-tuning the Falcon 7B model to generate creative and detailed text prompts for Midjourney. By leveraging powerful libraries such as transformers and torch, and following a systematic approach to data preparation, model setup, and training, the project achieves high-quality prompt generation suitable for enhancing AI-generated imagery. ​​
+- This project successfully demonstrates the process of fine-tuning the Falcon 7B model to generate creative and detailed text prompts for Midjourney. By leveraging powerful libraries such as transformers and torch, and following a systematic approach to data preparation, model setup, and training, the project achieves high-quality prompt generation suitable for enhancing AI-generated imagery. ​​
 
